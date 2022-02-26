@@ -23,7 +23,7 @@ int main()
     tp.testMultiplyMono(totalMark, fullMark);
     tp.testMultiplyPoly(totalMark, fullMark);
     tp.testDuplicate(totalMark, fullMark);
-    //tp.testEvaluate(totalMark, fullMark);
+    tp.testEvaluate(totalMark, fullMark);
 
     cout << "********************************" << endl;
     cout << "*** FINAL TOTAL MARK IS " << totalMark << "/" << fullMark << " ***" << endl;
